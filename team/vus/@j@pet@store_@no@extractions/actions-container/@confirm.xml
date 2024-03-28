@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Confirm" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="JPetStore_SLA2"
+    uid="64bcb22e-88a3-4b2b-be6a-70883e7d3c07" weightsEnabled="false">
+    <weighted-embedded-action uid="c9a67a68-af60-45d2-9530-34999c95a5a2"/>
+</basic-logical-action-container>

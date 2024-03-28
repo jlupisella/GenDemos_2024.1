@@ -1,0 +1,8 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Enter" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    slaProfileName="JPetStore_SLA2"
+    uid="c48a4167-dc44-484f-88a3-25d22b93f2a3" weightsEnabled="false">
+    <weighted-embedded-action uid="a3797cd5-cdc8-408d-9f75-0dec0adad789"/>
+    <weighted-embedded-action uid="34f91184-416e-45f6-ab45-9274809c7135"/>
+</basic-logical-action-container>

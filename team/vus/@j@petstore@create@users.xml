@@ -1,0 +1,29 @@
+<virtual-user errorPolicy="DO_NOTHING"
+    failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
+    type="LEGACY" uid="JPetstoreCreateUsers">
+    <init-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed once when the Virtual User starts.</description>
+    </init-container>
+    <actions-container clearUserIterationDataMode="AUTO"
+        element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements repeated until the Virtual User stops.</description>
+        <weighted-embedded-action uid="04e19d12-22f4-46ff-81cd-a6b358525a55"/>
+        <weighted-embedded-action uid="92c968d6-00a7-45cd-bc66-ca65f4a59e16"/>
+        <weighted-embedded-action uid="771a545c-e645-44cf-8a05-5eccba25b25d"/>
+        <weighted-embedded-action uid="81c0dea2-9459-4188-bb82-c2b8c41727b9"/>
+        <weighted-embedded-action uid="35a3e5f7-b1e7-4c04-83dc-3738014e9bd6"/>
+        <weighted-embedded-action uid="75fa8e2f-abe9-4f49-818a-366e25430447"/>
+    </actions-container>
+    <end-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed before the Virtual User stops.</description>
+    </end-container>
+    <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+        thinktimeFactorValue="100" thinktimePolicy="0"
+        thinktimeRangeValue="0" thinktimeValue="5000"/>
+</virtual-user>

@@ -1,0 +1,9 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Enter" pacingEnd="0" pacingMode="MODE_PACING_SIMPLE"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    slaProfileName="JPetStore"
+    uid="fd7c6576-0636-4255-8dd5-870d7e448bed" weightsEnabled="false">
+    <description>Connect to JPetstore</description>
+    <weighted-embedded-action uid="f9081c7f-c79c-434a-8458-3c251ea7fbc2"/>
+    <weighted-embedded-action uid="49ad7e53-89ea-411a-b23f-7ef2267bcdcb"/>
+</basic-logical-action-container>

@@ -1,0 +1,40 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/newAccountForm.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/b08c0db2-ea8d-412f-b673-7a04629b2a91.zip"
+    slaProfileEnabled="false" thinkTime="17196"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="b08c0db2-ea8d-412f-b673-7a04629b2a91">
+    <embedded-action>3e5ea7c5-eb6a-4cce-b0e7-f036161fac05</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/newAccountForm.shtml"
+    path="/jpetstore/shop/newAccountForm.shtml" postType="6"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/b08c0db2-ea8d-412f-b673-7a04629b2a91.zip"
+    recordedResponseCode="200" responseSize="5535"
+    serverUid="TrainingImage" slaProfileEnabled="false"
+    uid="3e5ea7c5-eb6a-4cce-b0e7-f036161fac05" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_6aa1af7d-f3ea-4dfa-aae0-c2cff4241aa8.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_6aa1af7d-f3ea-4dfa-aae0-c2cff4241aa8.txt</requestContentFileDescription>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=D42DD83521470CDF875FFFAA96BDD3E2"/>
+    <header name="Host" value="3.93.182.231"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://3.93.182.231/jpetstore/shop/signonForm.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 11 Apr 2023 12:47:54 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 5535&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>

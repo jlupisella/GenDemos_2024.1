@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="BackHome" pacingEnd="0" pacingMode="MODE_NO_PACING"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
+    slaProfileName="JPetStore"
+    uid="9f126890-7000-4f2a-81dd-cd851ca43456" weightsEnabled="false">
+    <weighted-embedded-action uid="b9fa1721-3ef9-4fe7-b6fc-b82bb7d08c30"/>
+</basic-logical-action-container>

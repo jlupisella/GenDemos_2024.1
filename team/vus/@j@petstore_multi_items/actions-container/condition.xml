@@ -1,0 +1,20 @@
+<if-action name="condition" uid="8ab80e75-18ec-452e-b65d-904599a755cb">
+    <then-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is true.</description>
+        <weighted-embedded-action uid="da8f82a8-3d88-40f8-8294-6e3a121971b3"/>
+    </then-container>
+    <else-container element-number="1" execution-type="0" pacingEnd="0"
+        pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
+        slaProfileEnabled="false" weightsEnabled="false">
+        <description>Elements executed when the condition is false.</description>
+        <weighted-embedded-action uid="5d667349-36f4-4a1b-8ce3-2c72599853f6"/>
+        <weighted-embedded-action uid="c6af6967-8864-4b4e-9af3-53c389a502ce"/>
+        <weighted-embedded-action uid="06ebd7f4-3dae-41fa-8fda-b71398feb4e7"/>
+        <weighted-embedded-action uid="d43f60d7-4fc4-4ec4-9fef-35b012ed795e"/>
+    </else-container>
+    <conditions match-type="1">
+        <condition operand1="${loop_counter}" operand2="10" operator="EQUALS"/>
+    </conditions>
+</if-action>

@@ -1,0 +1,48 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/viewCategory.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/f70e44e8-881d-4597-8afa-33a449dd0590.zip"
+    slaProfileEnabled="false" slaProfileName="JPetStore"
+    thinkTime="14726" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="f70e44e8-881d-4597-8afa-33a449dd0590">
+    <embedded-action>4c0ad4fb-552d-45de-a64e-f2b9a40aa5c1</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/shop/viewCategory.shtml"
+    path="/jpetstore/shop/viewCategory.shtml" postType="2"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/f70e44e8-881d-4597-8afa-33a449dd0590.zip"
+    recordedResponseCode="200"
+    refererUid="8d6710dc-e98c-4e3a-acf0-c3cc148af6f7"
+    responseSize="3621" serverUid="TrainingImage"
+    slaProfileEnabled="false" slaProfileName="JPetStore"
+    uid="4c0ad4fb-552d-45de-a64e-f2b9a40aa5c1" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_98539a34-5667-4373-afd2-0b5b38cdb23a.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_98539a34-5667-4373-afd2-0b5b38cdb23a.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="categoryId"
+        recordRawValue="BIRDS" separator="=" value="${categoryId_5}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="id"
+        recordRawValue="1616524002860" separator="=" value="${id}" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Cookie" value="JSESSIONID=53C7A21C99216C32B044D1C81417A958"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="34.228.15.47"/>
+    <header name="Referer" value="http://34.228.15.47/jpetstore/shop/index.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 23 Mar 2021 18:26:57 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 3621&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorContent="" extractorOccurence="15"
+        extractorRegExp="false" htmlType="1"/>
+</http-action>

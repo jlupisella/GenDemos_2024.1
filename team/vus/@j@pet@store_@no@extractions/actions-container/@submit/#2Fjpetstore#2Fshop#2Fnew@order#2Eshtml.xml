@@ -1,0 +1,84 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/newOrder.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/e0747139-fe8b-4b12-954c-42e92e13587d.zip"
+    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
+    thinkTime="6841" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="e0747139-fe8b-4b12-954c-42e92e13587d">
+    <embedded-action>bd44eefb-7b89-428b-b34a-50c7dc05c1ca</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/jpetstore/shop/newOrder.shtml"
+    path="/jpetstore/shop/newOrder.shtml" postCharset="iso-8859-1"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/e0747139-fe8b-4b12-954c-42e92e13587d.zip"
+    recordedResponseCode="200"
+    refererUid="e7d0f7cf-ea9c-47c6-8e5d-7876e414dded"
+    responseSize="4779" serverUid="TrainingImage"
+    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
+    uid="bd44eefb-7b89-428b-b34a-50c7dc05c1ca" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[b3JkZXIuY2FyZFR5cGU9VmlzYSZvcmRlci5jcmVkaXRDYXJkPTk5OSs5OTk5Kzk5OTkrOTk5OSZvcmRlci5leHBpcnlEYXRlPTEyJTJGMDMmb3JkZXIuYmlsbFRvRmlyc3ROYW1lPUFCQyZvcmRlci5iaWxsVG9MYXN0TmFtZT1YWVgmb3JkZXIuYmlsbEFkZHJlc3MxPTkwMStTYW4rQW50b25pbytSb2FkJm9yZGVyLmJpbGxBZGRyZXNzMj1NUytVQ1VQMDItMjA2Jm9yZGVyLmJpbGxDaXR5PVBhbG8rQWx0byZvcmRlci5iaWxsU3RhdGU9Q0Emb3JkZXIuYmlsbFppcD05NDMwMyZvcmRlci5iaWxsQ291bnRyeT1VU0EmeD0zNSZ5PTU=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_5f587ca9-eb0c-4db0-8c64-dc3e0a35576c.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_5f587ca9-eb0c-4db0-8c64-dc3e0a35576c.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.cardType" recordRawValue="Visa" separator="="
+        value="Visa" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.creditCard" recordRawValue="999+9999+9999+9999"
+        separator="=" value="999 9999 9999 9999" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.expiryDate" recordRawValue="12%2F03" separator="="
+        value="12/03" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billToFirstName" recordRawValue="ABC" separator="="
+        value="ABC" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billToLastName" recordRawValue="XYX" separator="="
+        value="XYX" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billAddress1" recordRawValue="901+San+Antonio+Road"
+        separator="=" value="901 San Antonio Road" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billAddress2" recordRawValue="MS+UCUP02-206"
+        separator="=" value="MS UCUP02-206" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billCity" recordRawValue="Palo+Alto" separator="="
+        value="Palo Alto" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billState" recordRawValue="CA" separator="="
+        value="CA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="order.billZip"
+        recordRawValue="94303" separator="=" value="94303" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="order.billCountry" recordRawValue="USA" separator="="
+        value="USA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="35" separator="=" value="35" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="5" separator="=" value="5" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.5"/>
+    <header name="Connection" value="keep-alive"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Cookie" value="JSESSIONID=C2F568AC92F440AD6B435BB2637E63FC"/>
+    <header name="DNT" value="1"/>
+    <header name="Host" value="34.228.15.47"/>
+    <header name="Origin" value="http://34.228.15.47"/>
+    <header name="Referer" value="http://34.228.15.47/jpetstore/shop/newOrderForm.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:85.0) Gecko/20100101 Firefox/85.0"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Wed, 24 Feb 2021 19:36:12 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 4779&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorId="orderBean" extractorName="orderBean"
+        extractorOccurence="2" extractorRegExp="false" htmlType="2"/>
+</http-action>

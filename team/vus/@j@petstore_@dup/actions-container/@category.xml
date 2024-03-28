@@ -1,0 +1,7 @@
+<basic-logical-action-container element-number="1" execution-type="0"
+    name="Category" pacingEnd="0" pacingMode="MODE_PACING_SIMPLE"
+    pacingStart="0" pacingValue="60" slaProfileEnabled="false"
+    slaProfileName="JPetStore"
+    uid="b4ccc95f-82f7-4d56-8136-b218cd73d6e4" weightsEnabled="false">
+    <weighted-embedded-action uid="06ddad81-af04-47cb-86d1-842cd4a4308d"/>
+</basic-logical-action-container>

@@ -1,0 +1,163 @@
+<http-page executeResourcesDynamically="false"
+    forceEncodingForDynamicResources="false"
+    name="/jpetstore/shop/newAccount.shtml"
+    playRequestsSequentially="false"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/2df5226c-5fc6-48ac-8fad-245ea457a099.zip"
+    slaProfileEnabled="false" thinkTime="0"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="2df5226c-5fc6-48ac-8fad-245ea457a099">
+    <embedded-action>c8f31908-834e-4af8-a9f6-b94bbb2e7cac</embedded-action>
+    <embedded-action>0cf1dbf3-71b7-460a-9fa0-beb5a5d1420b</embedded-action>
+    <embedded-action>3f06ad29-14c2-4d15-be3a-86c56e41636d</embedded-action>
+</http-page>
+<http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
+    extractorInjectPathPolicy="2" extractorPathPolicy="1"
+    followRedirects="false" generatedByClient="false"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="POST" name="/jpetstore/shop/newAccount.shtml"
+    path="/jpetstore/shop/newAccount.shtml" postCharset="iso-8859-1"
+    postType="1"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/2df5226c-5fc6-48ac-8fad-245ea457a099.zip"
+    recordedResponseCode="200"
+    refererUid="3e5ea7c5-eb6a-4cce-b0e7-f036161fac05"
+    responseSize="6276" serverUid="TrainingImage"
+    slaProfileEnabled="false" uid="c8f31908-834e-4af8-a9f6-b94bbb2e7cac" useKeepAlive="false">
+    <binaryPostContentBase64><![CDATA[dmFsaWRhdGlvbj1uZXcmdXNlcm5hbWU9SmVmZiZwYXNzd29yZD1KZWZmJnJlcGVhdGVkUGFzc3dvcmQ9SmVmZiZhY2NvdW50LmZpcnN0TmFtZT1KZWZmJmFjY291bnQubGFzdE5hbWU9SmVmZiZhY2NvdW50LmVtYWlsPWplZmZsdXBpOCU0MGdtYWlsLmNvbSZhY2NvdW50LnBob25lPTU1NS01NTUtNTU1NSZhY2NvdW50LmFkZHJlc3MxPTU1K01haW4rU3QmYWNjb3VudC5hZGRyZXNzMj0mYWNjb3VudC5jaXR5PUFueXRvd24mYWNjb3VudC5zdGF0ZT1NQSZhY2NvdW50LnppcD0wMTM0NSZhY2NvdW50LmNvdW50cnk9VVNBJmFjY291bnQubGFuZ3VhZ2VQcmVmZXJlbmNlPWVuZ2xpc2gmYWNjb3VudC5mYXZvdXJpdGVDYXRlZ29yeUlkPUZJU0gmeD0zOCZ5PTg=]]></binaryPostContentBase64>
+    <responsePageFileDescription>recorded-responses/res_ebb90008-78e5-4b90-a925-ae1973047471.html</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_ebb90008-78e5-4b90-a925-ae1973047471.txt</requestContentFileDescription>
+    <parameter encodeName="true" encodeValue="true" name="validation"
+        recordRawValue="new" separator="=" value="new" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="username"
+        recordRawValue="Jeff" separator="="
+        value="${JPetUsers.Username}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="password"
+        recordRawValue="Jeff" separator="="
+        value="${JPetUsers.Password}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="repeatedPassword" recordRawValue="Jeff" separator="="
+        value="${JPetUsers.Password}" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.firstName" recordRawValue="Jeff" separator="="
+        value="Jeff" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.lastName" recordRawValue="Jeff" separator="="
+        value="Jeff" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="account.email"
+        recordRawValue="jefflupi8%40gmail.com" separator="="
+        value="jefflupi8@gmail.com" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="account.phone"
+        recordRawValue="555-555-5555" separator="=" value="555-555-5555" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.address1" recordRawValue="55+Main+St"
+        separator="=" value="55 Main St" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.address2" recordRawValue="" separator="=" value="" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="account.city"
+        recordRawValue="Anytown" separator="=" value="Anytown" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="account.state"
+        recordRawValue="MA" separator="=" value="MA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="account.zip"
+        recordRawValue="01345" separator="=" value="01345" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.country" recordRawValue="USA" separator="="
+        value="USA" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.languagePreference" recordRawValue="english"
+        separator="=" value="english" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true"
+        name="account.favouriteCategoryId" recordRawValue="FISH"
+        separator="=" value="FISH" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="x"
+        recordRawValue="38" separator="=" value="38" valueMode="USE_VALUE"/>
+    <parameter encodeName="true" encodeValue="true" name="y"
+        recordRawValue="8" separator="=" value="8" valueMode="USE_VALUE"/>
+    <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.9"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cache-Control" value="max-age=0"/>
+    <header name="Content-Type" value="application/x-www-form-urlencoded"/>
+    <header name="Cookie" value="JSESSIONID=D42DD83521470CDF875FFFAA96BDD3E2"/>
+    <header name="Host" value="3.93.182.231"/>
+    <header name="Origin" value="http://3.93.182.231"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://3.93.182.231/jpetstore/shop/newAccountForm.shtml"/>
+    <header name="Upgrade-Insecure-Requests" value="1"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 11 Apr 2023 12:48:45 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Content-Length: 6276&#xd;
+Connection: close&#xd;
+Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
+    <record-html-infos extractorName="accountBean"
+        extractorOccurence="2" extractorRegExp="false" htmlType="2"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;290-1088130660000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 02:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/sign-out.gif"
+    path="/jpetstore/images/sign-out.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/2df5226c-5fc6-48ac-8fad-245ea457a099.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="TrainingImage" slaProfileEnabled="false"
+    uid="0cf1dbf3-71b7-460a-9fa0-beb5a5d1420b" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_0cf1dbf3-71b7-460a-9fa0-beb5a5d1420b.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_2df4df2f-451f-4e1b-be27-0804bd4a5c47.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=D42DD83521470CDF875FFFAA96BDD3E2"/>
+    <header name="Host" value="3.93.182.231"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://3.93.182.231/jpetstore/shop/newAccount.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 11 Apr 2023 12:48:46 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"290-1088130660000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 02:31:00 GMT&#xd;
+Content-Length: 290&#xd;
+Connection: close&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
+<http-action actionType="1" contentType="image/gif"
+    eTag="W/&quot;455-1088130660000&quot;" extractorInjectPathPolicy="2"
+    extractorPathPolicy="1" followRedirects="false"
+    generatedByClient="false"
+    lastModified="Fri, 25 Jun 2004 02:31:00 GMT"
+    linkExtractorSeveralMatchOccurrence="1"
+    linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
+    method="GET" name="/jpetstore/images/my_account.gif"
+    path="/jpetstore/images/my_account.gif" postType="6"
+    recordedArtifactZipFileName="team/vus/@j@petstore@create@users/%resources%/recorded-artifacts/2df5226c-5fc6-48ac-8fad-245ea457a099.zip"
+    recordedResponseCode="200" responseSize="0"
+    serverUid="TrainingImage" slaProfileEnabled="false"
+    uid="3f06ad29-14c2-4d15-be3a-86c56e41636d" useKeepAlive="false">
+    <responsePageFileDescription>recorded-responses/res_3f06ad29-14c2-4d15-be3a-86c56e41636d.gif</responsePageFileDescription>
+    <requestContentFileDescription>recorded-requests/req_b78bbc9a-64d1-4fd7-8f26-47960a5f2b25.txt</requestContentFileDescription>
+    <header name="Accept" value="image/avif,image/webp,image/apng,image/svg+xml,image/*,*/*;q=0.8"/>
+    <header name="Accept-Encoding" value="gzip, deflate"/>
+    <header name="Accept-Language" value="en-US,en;q=0.9"/>
+    <header name="Cookie" value="JSESSIONID=D42DD83521470CDF875FFFAA96BDD3E2"/>
+    <header name="Host" value="3.93.182.231"/>
+    <header name="Proxy-Connection" value="keep-alive"/>
+    <header name="Referer" value="http://3.93.182.231/jpetstore/shop/newAccount.shtml"/>
+    <header name="User-Agent" value="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36"/>
+    <responseHeaders>HTTP/1.1 200 OK&#xd;
+Date: Tue, 11 Apr 2023 12:48:46 GMT&#xd;
+Server: Apache/2.2.34 (Amazon)&#xd;
+Accept-Ranges: bytes&#xd;
+ETag: W/"455-1088130660000"&#xd;
+Last-Modified: Fri, 25 Jun 2004 02:31:00 GMT&#xd;
+Content-Length: 455&#xd;
+Connection: close&#xd;
+Content-Type: image/gif</responseHeaders>
+    <record-html-infos extractorRegExp="false" htmlType="0"/>
+</http-action>
