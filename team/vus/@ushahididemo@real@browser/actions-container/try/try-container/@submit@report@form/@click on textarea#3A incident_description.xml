@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserClick" isHit="false"
-    name="Click on textarea: incident_description" uid="1182fea6-625a-4204-bf4c-159263bbaf4a">
+    name="Click on textarea: incident_description" uid="71dcbcaa-dc2d-44b8-81e9-ebfaadf96fba">
     <description>Click a selector.
 
 Possible parameters are:&#xd;
@@ -20,11 +20,11 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_description"/>
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;incident_description&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_description"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > textarea:nth-child(3)"/>
-    <responsePageFileDescription>recorded-responses/res_1182fea6-625a-4204-bf4c-159263bbaf4a</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_1182fea6-625a-4204-bf4c-159263bbaf4a.jpg</screenshotFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_71dcbcaa-dc2d-44b8-81e9-ebfaadf96fba.jpg</screenshotFileDescription>
 </browser-action>

@@ -1,7 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="LogOut" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    slaProfileName="JPetStore_SLA2"
     uid="54c52f14-cccc-4a71-bfdd-cfff83da33fe" weightsEnabled="false">
     <weighted-embedded-action uid="a583106e-1853-4de1-a490-ea2c36bab814"/>
 </basic-logical-action-container>

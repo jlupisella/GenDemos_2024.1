@@ -3,9 +3,9 @@
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/37ea9600-fa7d-4c21-b907-eb0269d9512e.zip"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    thinkTime="10685" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="37ea9600-fa7d-4c21-b907-eb0269d9512e">
+    slaProfileEnabled="false" thinkTime="10685"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="37ea9600-fa7d-4c21-b907-eb0269d9512e">
     <embedded-action>fef11114-6d66-4e42-8ba2-60942d795707</embedded-action>
     <embedded-action>534613c0-2d7f-4fca-94e5-fbb48d0579ca</embedded-action>
 </http-page>
@@ -18,8 +18,7 @@
     path="/jpetstore/shop/checkout.shtml" postType="2"
     recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/37ea9600-fa7d-4c21-b907-eb0269d9512e.zip"
     recordedResponseCode="200" responseSize="4201"
-    serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     uid="fef11114-6d66-4e42-8ba2-60942d795707" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_b2fa9dff-fc27-4a7e-9ac4-f5bffd18c2d6.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_b2fa9dff-fc27-4a7e-9ac4-f5bffd18c2d6.txt</requestContentFileDescription>
@@ -50,8 +49,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/button_continue.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/37ea9600-fa7d-4c21-b907-eb0269d9512e.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     uid="534613c0-2d7f-4fca-94e5-fbb48d0579ca" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_bb22aaee-2e71-451a-a7bb-c079e0e6f3e0.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_d65dcd98-b10a-4c6f-a88d-f73cf4888c13.txt</requestContentFileDescription>

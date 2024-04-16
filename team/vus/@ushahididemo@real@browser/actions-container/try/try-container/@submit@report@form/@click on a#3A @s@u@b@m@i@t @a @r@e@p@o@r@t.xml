@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserClick" isHit="false"
-    name="Click on a: SUBMIT A REPORT" uid="2923ea53-ca95-403f-9369-cc2b53a928a3">
+    name="Click on a: SUBMIT A REPORT" uid="dda7aa27-196e-4653-9f11-60e15921cb60">
     <description>Click a selector.
 
 Possible parameters are:&#xd;
@@ -20,11 +20,11 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#header >> internal:role=link[name=&quot;Submit a Report&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#header > div:nth-child(3) > a:nth-child(1)"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>
-    <responsePageFileDescription>recorded-responses/res_2923ea53-ca95-403f-9369-cc2b53a928a3</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_2923ea53-ca95-403f-9369-cc2b53a928a3.jpg</screenshotFileDescription>
-    <embedded-action>8bc680e1-deec-4a40-92fb-08c969ba2e53</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_dda7aa27-196e-4653-9f11-60e15921cb60.jpg</screenshotFileDescription>
+    <embedded-action>ec79370e-adca-4834-aea9-33df8e70ecff</embedded-action>
 </browser-action>

@@ -9,7 +9,7 @@
     <actions-container clearUserIterationDataMode="AUTO"
         element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
-        slaProfileEnabled="false" slaProfileName="JPetStore" weightsEnabled="false">
+        slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
         <weighted-embedded-action uid="c537b0f9-4144-4d1e-8c20-37bdff34ebc8"/>
         <weighted-embedded-action uid="1d541363-666d-45af-b6a1-c51f36efdc2f"/>
@@ -51,6 +51,7 @@
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed before the Virtual User stops.</description>
     </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="100" thinktimePolicy="0"
         thinktimeRangeValue="0" thinktimeValue="5000"/>

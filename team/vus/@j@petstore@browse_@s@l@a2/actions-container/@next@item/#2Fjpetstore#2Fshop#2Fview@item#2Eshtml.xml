@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse_@s@l@a2/%resources%/recorded-artifacts/af66a272-5f80-4526-aa2e-5dd57a5edd98.zip"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    thinkTime="8570" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="af66a272-5f80-4526-aa2e-5dd57a5edd98">
+    slaProfileEnabled="false" thinkTime="8570"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="af66a272-5f80-4526-aa2e-5dd57a5edd98">
     <embedded-action>9bba26a8-23e8-4025-9db6-d846fb6ca689</embedded-action>
     <embedded-action>059479e4-9c60-4d94-b452-01b3dd0fc31b</embedded-action>
 </http-page>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="8a4ed1b8-4eaa-44d5-aa11-3eb7c4e770c2"
     responseSize="3651" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    uid="9bba26a8-23e8-4025-9db6-d846fb6ca689" useKeepAlive="false">
+    slaProfileEnabled="false" uid="9bba26a8-23e8-4025-9db6-d846fb6ca689" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_8c98ed67-ff88-4e4e-a187-56aa1fbddaa5.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_8c98ed67-ff88-4e4e-a187-56aa1fbddaa5.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="itemId"
@@ -57,8 +56,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/cat2.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse_@s@l@a2/%resources%/recorded-artifacts/af66a272-5f80-4526-aa2e-5dd57a5edd98.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     uid="059479e4-9c60-4d94-b452-01b3dd0fc31b" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_059479e4-9c60-4d94-b452-01b3dd0fc31b.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_1c24bd1f-f8c7-4794-9ff5-b26bf92e003a.txt</requestContentFileDescription>

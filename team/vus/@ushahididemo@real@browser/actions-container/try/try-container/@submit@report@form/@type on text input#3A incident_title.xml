@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserType" isHit="false"
-    name="Type on text input: incident_title" uid="2ca640ec-e442-4a60-82d6-4c10c2010598">
+    name="Type on text input: incident_title" uid="3539b886-44d5-4b86-8125-c60653fa06ae">
     <description>Type some text inside an element.
 
 Possible parameters are:&#xd;
@@ -18,13 +18,13 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_title"/>
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;incident_title&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_title"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(3) > div:nth-child(1) > input:nth-child(2)"/>
-    <custom-action-parameter name="text" type="TEXT" value="My Report"/>
+    <custom-action-parameter name="text" type="TEXT" value="my report"/>
     <custom-action-parameter name="delay" type="TEXT" value="300"/>
-    <responsePageFileDescription>recorded-responses/res_2ca640ec-e442-4a60-82d6-4c10c2010598</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_2ca640ec-e442-4a60-82d6-4c10c2010598.jpg</screenshotFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_3539b886-44d5-4b86-8125-c60653fa06ae.jpg</screenshotFileDescription>
 </browser-action>

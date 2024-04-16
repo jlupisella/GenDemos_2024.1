@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserClick" isHit="false"
-    name="Click on text input: location_name" uid="e3ae638f-1438-4200-8817-290976d3a915">
+    name="Click on text input: location_name" uid="d670d889-980d-4400-82d3-9dc999622089">
     <description>Click a selector.
 
 Possible parameters are:&#xd;
@@ -20,11 +20,11 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#location_name"/>
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;location_name&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#location_name"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(4) > div:nth-child(2) > input:nth-child(2)"/>
-    <responsePageFileDescription>recorded-responses/res_e3ae638f-1438-4200-8817-290976d3a915</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_e3ae638f-1438-4200-8817-290976d3a915.jpg</screenshotFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_d670d889-980d-4400-82d3-9dc999622089.jpg</screenshotFileDescription>
 </browser-action>

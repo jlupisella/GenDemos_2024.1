@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserClick" isHit="false"
-    name="Click on submit input: Submit" uid="17d9765a-9b7d-429b-a508-331be4ff480b">
+    name="Click on submit input: Submit" uid="aa3ecb59-857d-4945-bbd3-f8872df6359f">
     <description>Click a selector.
 
 Possible parameters are:&#xd;
@@ -20,11 +20,11 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="internal:role=button[name=&quot;Submit&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(4) > div:nth-child(6) > input:nth-child(1)"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>
-    <responsePageFileDescription>recorded-responses/res_17d9765a-9b7d-429b-a508-331be4ff480b</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_17d9765a-9b7d-429b-a508-331be4ff480b.jpg</screenshotFileDescription>
-    <embedded-action>5ce88573-d497-4441-adf0-568dda8cf09a</embedded-action>
+    <screenshotFileDescription>recorded-screenshots/sc_aa3ecb59-857d-4945-bbd3-f8872df6359f.jpg</screenshotFileDescription>
+    <embedded-action>37bc84f5-3715-4710-8ab8-8e8ad69b2c0f</embedded-action>
 </browser-action>

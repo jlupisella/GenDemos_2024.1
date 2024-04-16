@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserType" isHit="false"
-    name="Type on textarea: incident_description" uid="5f9b27a6-0e09-47a9-bced-d4eb987dd2de">
+    name="Type on textarea: incident_description" uid="2332815e-65b2-4b8a-9781-8a5a3eec40bd">
     <description>Type some text inside an element.
 
 Possible parameters are:&#xd;
@@ -18,13 +18,13 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_description"/>
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;incident_description&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_description"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > textarea:nth-child(3)"/>
-    <custom-action-parameter name="text" type="TEXT" value="My Demo"/>
-    <custom-action-parameter name="delay" type="TEXT" value="800"/>
-    <responsePageFileDescription>recorded-responses/res_5f9b27a6-0e09-47a9-bced-d4eb987dd2de</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_5f9b27a6-0e09-47a9-bced-d4eb987dd2de.jpg</screenshotFileDescription>
+    <custom-action-parameter name="text" type="TEXT" value="my description"/>
+    <custom-action-parameter name="delay" type="TEXT" value="200"/>
+    <screenshotFileDescription>recorded-screenshots/sc_2332815e-65b2-4b8a-9781-8a5a3eec40bd.jpg</screenshotFileDescription>
 </browser-action>

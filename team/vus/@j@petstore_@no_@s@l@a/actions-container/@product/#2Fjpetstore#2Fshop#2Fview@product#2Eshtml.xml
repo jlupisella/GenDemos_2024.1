@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/366401a2-53f1-42fb-b0bd-75dee968e25c.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    thinkTime="9818" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="366401a2-53f1-42fb-b0bd-75dee968e25c">
+    slaProfileEnabled="false" thinkTime="9818"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="366401a2-53f1-42fb-b0bd-75dee968e25c">
     <embedded-action>0b19710e-c2a7-41a2-8add-f5eafee2c8ab</embedded-action>
     <embedded-action>77e9da9b-fd65-42cf-848d-17cc2f5f3f2b</embedded-action>
 </http-page>
@@ -19,8 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/366401a2-53f1-42fb-b0bd-75dee968e25c.zip"
     recordedResponseCode="200" recordedResponseTime="45"
     responseSize="4900" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    uid="0b19710e-c2a7-41a2-8add-f5eafee2c8ab" useKeepAlive="false">
+    slaProfileEnabled="false" uid="0b19710e-c2a7-41a2-8add-f5eafee2c8ab" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_aeaeb199-feff-4f54-893e-89a4b1351145.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_aeaeb199-feff-4f54-893e-89a4b1351145.txt</requestContentFileDescription>
     <variable-extractor assertionOnNoMatch="true"
@@ -77,8 +76,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/366401a2-53f1-42fb-b0bd-75dee968e25c.zip"
     recordedResponseCode="200" recordedResponseTime="72"
     responseSize="481" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    uid="77e9da9b-fd65-42cf-848d-17cc2f5f3f2b" useKeepAlive="false">
+    slaProfileEnabled="false" uid="77e9da9b-fd65-42cf-848d-17cc2f5f3f2b" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_77e9da9b-fd65-42cf-848d-17cc2f5f3f2b.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_b2478164-7ff9-400e-a449-479304a7c128.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

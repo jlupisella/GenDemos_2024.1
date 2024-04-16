@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewCategory.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/a7b9a053-bea7-472b-b506-2980c98feb50.zip"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    thinkTime="10745" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="a7b9a053-bea7-472b-b506-2980c98feb50">
+    slaProfileEnabled="false" thinkTime="10745"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="a7b9a053-bea7-472b-b506-2980c98feb50">
     <embedded-action>a5407f26-1bd6-414f-8a64-670f253410dd</embedded-action>
     <embedded-action>edf0bede-b877-4e0d-a628-37306e7a4c38</embedded-action>
 </http-page>
@@ -20,8 +20,7 @@
     recordedResponseCode="200"
     refererUid="d6c719c5-2b3d-43c8-a911-49a638cce0e2"
     responseSize="4096" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    uid="a5407f26-1bd6-414f-8a64-670f253410dd" useKeepAlive="false">
+    slaProfileEnabled="false" uid="a5407f26-1bd6-414f-8a64-670f253410dd" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_73e17f4a-8284-4980-bfd0-40a2dfccd516.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_73e17f4a-8284-4980-bfd0-40a2dfccd516.txt</requestContentFileDescription>
     <parameter encodeName="true" encodeValue="true" name="categoryId"
@@ -57,8 +56,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/button_next.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@pet@store_@no@extractions/%resources%/recorded-artifacts/a7b9a053-bea7-472b-b506-2980c98feb50.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     uid="edf0bede-b877-4e0d-a628-37306e7a4c38" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_89d14a28-0b82-403c-87ea-0eac41546680.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_259ba9e4-c1de-4ba2-8389-d3c6d36e1a2f.txt</requestContentFileDescription>

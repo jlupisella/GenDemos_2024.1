@@ -1,7 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="HomeAgain" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
     uid="43a560b0-e2e3-4aa4-9d1b-8e4deec58721" weightsEnabled="false">
     <weighted-embedded-action uid="afd01216-6ec5-49bd-81a5-a1dfa1453e7d"/>
 </basic-logical-action-container>

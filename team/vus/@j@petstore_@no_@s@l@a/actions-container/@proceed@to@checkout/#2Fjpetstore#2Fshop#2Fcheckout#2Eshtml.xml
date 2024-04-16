@@ -3,9 +3,9 @@
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/1d8a2081-5055-4002-a0b7-65e1a29526b8.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    thinkTime="10675" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="1d8a2081-5055-4002-a0b7-65e1a29526b8">
+    slaProfileEnabled="false" thinkTime="10675"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="1d8a2081-5055-4002-a0b7-65e1a29526b8">
     <embedded-action>d9666bfd-9ddb-48d9-be80-7cb1dc010bb0</embedded-action>
     <embedded-action>871c268f-b935-4b3d-a0de-88d2d4eaeb4c</embedded-action>
 </http-page>
@@ -19,8 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/1d8a2081-5055-4002-a0b7-65e1a29526b8.zip"
     recordedResponseCode="200" recordedResponseTime="21"
     responseSize="4965" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    uid="d9666bfd-9ddb-48d9-be80-7cb1dc010bb0" useKeepAlive="false">
+    slaProfileEnabled="false" uid="d9666bfd-9ddb-48d9-be80-7cb1dc010bb0" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_d2f1b971-7e7a-4556-95e9-b3bf4be55733.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_d2f1b971-7e7a-4556-95e9-b3bf4be55733.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
@@ -55,8 +54,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_@no_@s@l@a/%resources%/recorded-artifacts/1d8a2081-5055-4002-a0b7-65e1a29526b8.zip"
     recordedResponseCode="200" recordedResponseTime="17"
     responseSize="1275" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore_SLA2"
-    uid="871c268f-b935-4b3d-a0de-88d2d4eaeb4c" useKeepAlive="false">
+    slaProfileEnabled="false" uid="871c268f-b935-4b3d-a0de-88d2d4eaeb4c" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_871c268f-b935-4b3d-a0de-88d2d4eaeb4c.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_6a9fc5d1-7946-4595-8a6f-d12dc8757046.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

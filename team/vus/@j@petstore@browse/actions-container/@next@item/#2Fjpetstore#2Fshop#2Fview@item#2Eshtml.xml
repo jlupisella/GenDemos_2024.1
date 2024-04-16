@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse/%resources%/recorded-artifacts/8e21320a-8a01-42db-9441-2ecacbbfaa51.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
-    thinkTime="8570" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="8e21320a-8a01-42db-9441-2ecacbbfaa51">
+    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="8570"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8e21320a-8a01-42db-9441-2ecacbbfaa51">
     <embedded-action>01b28117-a08d-41bb-83c1-25ceaeb7472a</embedded-action>
     <embedded-action>1c1f569c-77ff-466a-ab49-77b9c765ac18</embedded-action>
 </http-page>
@@ -20,7 +20,7 @@
     recordedResponseCode="200"
     refererUid="16a88002-504c-4d56-8c48-17282ec5a90c"
     responseSize="3651" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="01b28117-a08d-41bb-83c1-25ceaeb7472a" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_6d5dfa52-e815-40fe-8831-139ee242da87.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_6d5dfa52-e815-40fe-8831-139ee242da87.txt</requestContentFileDescription>
@@ -57,8 +57,8 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/cat2.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse/%resources%/recorded-artifacts/8e21320a-8a01-42db-9441-2ecacbbfaa51.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="false"
-    slaProfileName="JPetStore"
+    serverUid="TrainingImage" slaProfileEnabled="true"
+    slaProfileName="JPetstore"
     uid="1c1f569c-77ff-466a-ab49-77b9c765ac18" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_5715ecef-dd84-4502-8118-ad2ed4fb4d8f.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_5715ecef-dd84-4502-8118-ad2ed4fb4d8f.txt</requestContentFileDescription>

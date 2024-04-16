@@ -3,9 +3,9 @@
     name="/jpetstore/shop/newOrder.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/aa5afd8d-c5c0-4e56-9ad5-0b10b7255ce6.zip"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    thinkTime="9575" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="aa5afd8d-c5c0-4e56-9ad5-0b10b7255ce6">
+    slaProfileEnabled="false" thinkTime="9575"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="aa5afd8d-c5c0-4e56-9ad5-0b10b7255ce6">
     <embedded-action>39be22fc-4d55-468b-bb01-6577a9c13bb8</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
@@ -20,8 +20,7 @@
     recordedResponseCode="200" recordedResponseTime="37"
     refererUid="e82138d0-1eef-4cf8-b165-a6148c6c76fc"
     responseSize="5554" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    uid="39be22fc-4d55-468b-bb01-6577a9c13bb8" useKeepAlive="false">
+    slaProfileEnabled="false" uid="39be22fc-4d55-468b-bb01-6577a9c13bb8" useKeepAlive="false">
     <binaryPostContentBase64><![CDATA[b3JkZXIuY2FyZFR5cGU9VmlzYSZvcmRlci5jcmVkaXRDYXJkPTk5OSs5OTk5Kzk5OTkrOTk5OSZvcmRlci5leHBpcnlEYXRlPTEyJTJGMDMmb3JkZXIuYmlsbFRvRmlyc3ROYW1lPUFCQyZvcmRlci5iaWxsVG9MYXN0TmFtZT1YWVgmb3JkZXIuYmlsbEFkZHJlc3MxPTkwMStTYW4rQW50b25pbytSb2FkJm9yZGVyLmJpbGxBZGRyZXNzMj1NUytVQ1VQMDItMjA2Jm9yZGVyLmJpbGxDaXR5PVBhbG8rQWx0byZvcmRlci5iaWxsU3RhdGU9Q0Emb3JkZXIuYmlsbFppcD05NDMwMyZvcmRlci5iaWxsQ291bnRyeT1VU0EmeD0zNCZ5PTEw]]></binaryPostContentBase64>
     <responsePageFileDescription>recorded-responses/res_5865e89d-cfb8-404b-8649-312f0c425df7.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_5865e89d-cfb8-404b-8649-312f0c425df7.txt</requestContentFileDescription>

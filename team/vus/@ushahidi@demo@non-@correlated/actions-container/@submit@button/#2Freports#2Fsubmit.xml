@@ -56,13 +56,13 @@ Content-Type: text/html; charset=UTF-8</responseHeaders>
                 extractFromVarNameSimple="" extractType="0"
                 extractTypeAdv="0" extractTypeSimple="0" matchNumber="1"
                 matchNumberAdv="1" matchNumberSimple="1"
-                name="nl_extracted_param_1"
+                name="nl_extracted_param"
                 refererUid="a308e2b5-c67f-4214-afc0-c9a570a8588c"
                 regExp="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
                 regExpAdv="\s[Nn][Aa][Mm][Ee]\s*=\s*[\&quot;']form_auth_token[\&quot;'][^>]*\s[vV][Aa][Ll][Uu][Ee]\s*=\s*[\&quot;'](.*?)[\&quot;']"
                 setDefaultValue="true" startsWithSimple=""
                 template="$1$" templateAdv="$1$"
-                uid="5c1f8f2a-d402-49dc-988d-46c4c19f5f4c" xpath="">
+                uid="f7c52f70-6965-4809-a6f8-694533edac0f" xpath="">
                 <variable-extractor-group extract="true" occurs="1"
                     pattern="" type="4"/>
             </variable-extractor>

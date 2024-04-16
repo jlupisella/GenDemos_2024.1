@@ -1,7 +1,7 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Confirm" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    slaProfileName="JPetstore_SLA2"
     uid="9d4fb791-c81e-497e-a5b6-3d59e9e2b83c" weightsEnabled="false">
     <weighted-embedded-action uid="a33337ce-067e-4606-bf97-a6a7b0df46ec"/>
 </basic-logical-action-container>

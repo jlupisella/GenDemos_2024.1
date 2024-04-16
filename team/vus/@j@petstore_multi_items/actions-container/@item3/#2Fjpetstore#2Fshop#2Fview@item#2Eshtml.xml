@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewItem.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/808f4b42-01ac-46a8-b960-bdcdc5033e6c.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
-    thinkTime="6975" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="808f4b42-01ac-46a8-b960-bdcdc5033e6c">
+    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="6975"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="808f4b42-01ac-46a8-b960-bdcdc5033e6c">
     <embedded-action>ec890919-7909-4bc2-8469-b037333174c5</embedded-action>
     <embedded-action>24464ed2-f4e5-4f57-9dc8-7b6a14da7c72</embedded-action>
 </http-page>
@@ -20,7 +20,7 @@
     recordedResponseCode="200"
     refererUid="adb6e510-11d7-4376-b048-a3ab6777e206"
     responseSize="3842" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="ec890919-7909-4bc2-8469-b037333174c5" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_82d1c859-62f4-494f-ba98-c8ab7314ba07.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_82d1c859-62f4-494f-ba98-c8ab7314ba07.txt</requestContentFileDescription>
@@ -57,8 +57,8 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/bird1.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/808f4b42-01ac-46a8-b960-bdcdc5033e6c.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="false"
-    slaProfileName="JPetStore"
+    serverUid="TrainingImage" slaProfileEnabled="true"
+    slaProfileName="JPetstore"
     uid="24464ed2-f4e5-4f57-9dc8-7b6a14da7c72" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_f93b2fe6-6ed7-479e-a16b-364b1ff8e9a3.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_f93b2fe6-6ed7-479e-a16b-364b1ff8e9a3.txt</requestContentFileDescription>

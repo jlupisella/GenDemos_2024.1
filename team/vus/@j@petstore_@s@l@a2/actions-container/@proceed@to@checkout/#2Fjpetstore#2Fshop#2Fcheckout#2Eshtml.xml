@@ -3,9 +3,9 @@
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/e14290e9-b277-41e5-a782-ce04794f9683.zip"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    thinkTime="10675" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="e14290e9-b277-41e5-a782-ce04794f9683">
+    slaProfileEnabled="false" thinkTime="10675"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="e14290e9-b277-41e5-a782-ce04794f9683">
     <embedded-action>cf415a41-bffc-4f55-8ca8-a562a935fa60</embedded-action>
     <embedded-action>6ebdf2b6-1369-4549-aef0-9afd01afe4de</embedded-action>
 </http-page>
@@ -19,8 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/e14290e9-b277-41e5-a782-ce04794f9683.zip"
     recordedResponseCode="200" recordedResponseTime="21"
     responseSize="4965" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    uid="cf415a41-bffc-4f55-8ca8-a562a935fa60" useKeepAlive="false">
+    slaProfileEnabled="false" uid="cf415a41-bffc-4f55-8ca8-a562a935fa60" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_954313e8-3938-479a-8ef3-e7d62c74a2b8.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_954313e8-3938-479a-8ef3-e7d62c74a2b8.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>
@@ -55,8 +54,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore_@s@l@a2/%resources%/recorded-artifacts/e14290e9-b277-41e5-a782-ce04794f9683.zip"
     recordedResponseCode="200" recordedResponseTime="17"
     responseSize="1275" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetStore_SLA2"
-    uid="6ebdf2b6-1369-4549-aef0-9afd01afe4de" useKeepAlive="false">
+    slaProfileEnabled="false" uid="6ebdf2b6-1369-4549-aef0-9afd01afe4de" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_6ebdf2b6-1369-4549-aef0-9afd01afe4de.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_28f80f21-47d9-4891-9768-677be2adad9c.txt</requestContentFileDescription>
     <header name="Accept" value="image/webp,*/*"/>

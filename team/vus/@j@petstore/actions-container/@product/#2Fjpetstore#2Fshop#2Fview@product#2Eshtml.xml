@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/43b90cf4-599c-4cfb-9004-3cd16275c8fb.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
-    thinkTime="9818" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="43b90cf4-599c-4cfb-9004-3cd16275c8fb">
+    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="9818"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="43b90cf4-599c-4cfb-9004-3cd16275c8fb">
     <embedded-action>bd5cb8b0-3930-481b-9d5f-5816f52e237c</embedded-action>
     <embedded-action>8bdc5b2c-af56-429e-bcbd-ea50aef0d537</embedded-action>
 </http-page>
@@ -19,7 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/43b90cf4-599c-4cfb-9004-3cd16275c8fb.zip"
     recordedResponseCode="200" recordedResponseTime="45"
     responseSize="4900" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="bd5cb8b0-3930-481b-9d5f-5816f52e237c" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_d63f8f3a-2519-414a-9989-1583a6a12c89.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_de6484a1-795d-4eb8-8add-c83042ce7f7e.0.txt</requestContentFileDescription>
@@ -77,7 +77,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/43b90cf4-599c-4cfb-9004-3cd16275c8fb.zip"
     recordedResponseCode="200" recordedResponseTime="72"
     responseSize="481" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="8bdc5b2c-af56-429e-bcbd-ea50aef0d537" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_66c829f9-564c-4700-90ad-c841de71cd1d.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_7625046a-fc0d-4ef1-80f8-639fdac78a64.txt</requestContentFileDescription>

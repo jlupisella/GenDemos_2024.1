@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserOpen" isHit="false"
-    name="Open browser" uid="46e407d3-6e72-47d1-9c88-6354fa0ca4b2">
+    name="Open browser" uid="cb790a2a-52fe-4b64-9fcc-3cff814e2f7d">
     <description>Open a new browser.
 
 Possible parameters are:&#xd;
@@ -25,12 +25,14 @@ Possible parameters are:&#xd;
 - httpCredentials.password (optional): Password for HTTP authentication. 'httpCredentials.origin' parameter is required to restrict sending credentials to specific hosts.&#xd;
 - httpCredentials.origin (optional): Origin to which credentials for HTTP authentication will be sent. Ex: 'https://tricentis.com'.&#xd;
 - ignoreScreenshots (optional): Disable all screenshots during Check VU or Debug. Default value is "false".&#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="browser" type="TEXT" value="chromium"/>
     <custom-action-parameter name="resolution" type="TEXT" value="1920x1080"/>
     <custom-action-parameter name="locale" type="TEXT" value="en-US"/>
     <custom-action-parameter name="timezone" type="TEXT" value="America/New_York"/>
     <custom-action-parameter name="userAgent" type="TEXT" value="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36"/>
+    <custom-action-parameter name="ignoreSSLCertificateErrors"
+        type="TEXT" value="true"/>
     <custom-action-parameter name="bypassCsp" type="TEXT" value="true"/>
-    <responsePageFileDescription>recorded-responses/res_46e407d3-6e72-47d1-9c88-6354fa0ca4b2</responsePageFileDescription>
 </browser-action>

@@ -1,5 +1,5 @@
 <browser-action actionType="BrowserType" isHit="false"
-    name="Type on text input: location_name" uid="08a9b2a0-d122-429f-b9a6-1509932c96b7">
+    name="Type on text input: location_name" uid="90bcab52-ea98-4214-817e-f319991a2689">
     <description>Type some text inside an element.
 
 Possible parameters are:&#xd;
@@ -18,13 +18,13 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
+</description>
     <custom-action-parameter name="selector" type="TEXT" value="#location_name"/>
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;location_name&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#location_name"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(4) > div:nth-child(2) > input:nth-child(2)"/>
     <custom-action-parameter name="text" type="TEXT" value="Boston"/>
     <custom-action-parameter name="delay" type="TEXT" value="200"/>
-    <responsePageFileDescription>recorded-responses/res_08a9b2a0-d122-429f-b9a6-1509932c96b7</responsePageFileDescription>
-    <screenshotFileDescription>recorded-screenshots/sc_08a9b2a0-d122-429f-b9a6-1509932c96b7.jpg</screenshotFileDescription>
+    <screenshotFileDescription>recorded-screenshots/sc_90bcab52-ea98-4214-817e-f319991a2689.jpg</screenshotFileDescription>
 </browser-action>

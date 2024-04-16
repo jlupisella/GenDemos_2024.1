@@ -1,7 +1,7 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="BackToItem" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="true"
-    slaProfileName="JPetStore_SLA2"
+    slaProfileName="JPetstore_SLA2"
     uid="179a71bb-14ab-4a76-a3e6-792a58538be3" weightsEnabled="false">
     <weighted-embedded-action uid="9775062d-8c36-46b5-8c48-c8371ef777d7"/>
 </basic-logical-action-container>

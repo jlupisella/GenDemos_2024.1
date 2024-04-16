@@ -1,11 +1,10 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="SubmitReportButton" pacingEnd="0" pacingMode="MODE_NO_PACING"
     pacingStart="0" pacingValue="0" slaProfileEnabled="false"
-    uid="47e7322c-fcf6-49e9-bc53-5f5373fb506a" weightsEnabled="false">
-    <weighted-embedded-action uid="c28418b4-6f41-4520-97f4-894add547d36"/>
-    <weighted-embedded-action uid="2129c741-e5c1-4d6a-8dc7-de13760051af"/>
-    <weighted-embedded-action uid="08a9b2a0-d122-429f-b9a6-1509932c96b7"/>
-    <weighted-embedded-action uid="4f2b4a04-8c48-44ae-8f08-fa873c3ff9b6"/>
-    <weighted-embedded-action uid="17d9765a-9b7d-429b-a508-331be4ff480b"/>
-    <weighted-embedded-action uid="3e3131b3-82a1-494f-9fb6-a0116173da98"/>
+    uid="3c05988b-e4f6-40d6-bc8d-aeb8db1afffe" weightsEnabled="false">
+    <weighted-embedded-action uid="ac315591-4362-42a5-ab5d-6e0f1e35157c"/>
+    <weighted-embedded-action uid="90bcab52-ea98-4214-817e-f319991a2689"/>
+    <weighted-embedded-action uid="deb1c728-e584-4146-8225-e95862bb6691"/>
+    <weighted-embedded-action uid="aa3ecb59-857d-4945-bbd3-f8872df6359f"/>
+    <weighted-embedded-action uid="c1c706c3-35f7-4877-a088-f6d3ea7faa9c"/>
 </basic-logical-action-container>

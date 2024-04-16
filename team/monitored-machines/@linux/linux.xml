@@ -7,7 +7,8 @@
         <simple-monitor-telnet callTime="ON_BENCH" category="0"
             computing="0" format="NUMBER" monitor="1"
             name="System/CPU User" sampling="0"
-            short-display-name="CPU User" unit="%"/>
+            short-display-name="CPU User"
+            threshold="cc7f85a2-3ad6-4015-a438-37d2af503b18" unit="%"/>
         <simple-monitor-telnet callTime="ON_BENCH" category="0"
             computing="0" format="NUMBER" monitor="2"
             name="System/CPU System" sampling="0"
@@ -124,5 +125,9 @@
                 <threshold-content>Nombreux segments retransmis</threshold-content>
             </threshold-comment>
         </threshold-condition>
+    </threshold>
+    <threshold enabled="true" uid="cc7f85a2-3ad6-4015-a438-37d2af503b18">
+        <threshold-condition durationKind="SECONDS" durationNumber="15"
+            operator="GREATER_THAN" severity="LOW" valueMax="Infinity" valueMin="10.0"/>
     </threshold>
 </connection-ssh>

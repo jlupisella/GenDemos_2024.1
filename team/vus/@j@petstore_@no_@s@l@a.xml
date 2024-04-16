@@ -1,6 +1,6 @@
 <virtual-user errorPolicy="DO_NOTHING"
     failedAssertionPolicy="DO_NOTHING" slaProfileEnabled="false"
-    slaProfileName="JPetStore_SLA2" type="LEGACY" uid="JPetstore_No_SLA">
+    type="LEGACY" uid="JPetstore_No_SLA">
     <init-container element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
         slaProfileEnabled="false" weightsEnabled="false">
@@ -9,7 +9,7 @@
     <actions-container clearUserIterationDataMode="OFF"
         element-number="1" execution-type="0" pacingEnd="0"
         pacingMode="MODE_NO_PACING" pacingStart="0" pacingValue="0"
-        slaProfileEnabled="false" slaProfileName="JPetStore" weightsEnabled="false">
+        slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements repeated until the Virtual User stops.</description>
         <weighted-embedded-action uid="0ac1c104-3edb-46e2-a7e8-730c0acda5c2"/>
         <weighted-embedded-action uid="18b7c9d3-85d4-4e40-9bdb-a13fbd2b0d85"/>
@@ -30,6 +30,7 @@
         slaProfileEnabled="false" weightsEnabled="false">
         <description>Elements executed before the Virtual User stops.</description>
     </end-container>
+    <extraJsonData><![CDATA[{}]]></extraJsonData>
     <thinktime-policy thinkTimeMode="MODE_SIMPLE_THINK_TIME"
         thinktimeFactorValue="200" thinktimePolicy="1"
         thinktimeRangeValue="0" thinktimeValue="10000"/>

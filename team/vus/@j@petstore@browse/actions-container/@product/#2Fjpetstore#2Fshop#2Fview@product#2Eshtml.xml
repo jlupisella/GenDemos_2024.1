@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse/%resources%/recorded-artifacts/6c294730-de02-410b-a032-38a439497fa6.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
-    thinkTime="8200" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="6c294730-de02-410b-a032-38a439497fa6">
+    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="8200"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="6c294730-de02-410b-a032-38a439497fa6">
     <embedded-action>d21074be-cf30-4b00-8b42-6e492c3424f8</embedded-action>
     <embedded-action>eb75db6f-5803-4a84-bfb6-407fd13308b7</embedded-action>
 </http-page>
@@ -20,7 +20,7 @@
     recordedResponseCode="200"
     refererUid="118bfde5-3346-428a-9375-3c364b6cd6f1"
     responseSize="3946" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="d21074be-cf30-4b00-8b42-6e492c3424f8" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_b5447b56-6c5f-4194-b6e5-4c53ded51b5c.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_b5447b56-6c5f-4194-b6e5-4c53ded51b5c.txt</requestContentFileDescription>
@@ -76,8 +76,8 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/button_add_to_cart.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore@browse/%resources%/recorded-artifacts/6c294730-de02-410b-a032-38a439497fa6.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="false"
-    slaProfileName="JPetStore"
+    serverUid="TrainingImage" slaProfileEnabled="true"
+    slaProfileName="JPetstore"
     uid="eb75db6f-5803-4a84-bfb6-407fd13308b7" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_88c9762c-542a-4cea-a8c9-0c0c5e72c5c9.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_88c9762c-542a-4cea-a8c9-0c0c5e72c5c9.txt</requestContentFileDescription>

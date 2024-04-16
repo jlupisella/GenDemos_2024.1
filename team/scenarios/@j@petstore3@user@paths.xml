@@ -1,6 +1,6 @@
 <scenario postMonitoringTime="-1" preMonitoringTime="-1"
-    slaProfileEnabled="true" slaProfileName="JPetStore"
-    traceVariables="true" uid="JPetstore3UserPaths" virtualUsersStates="true">
+    slaProfileEnabled="false" traceVariables="true"
+    uid="JPetstore3UserPaths" virtualUsersStates="true">
     <!--****** POPULATION POLICY ******-->
     <population-policy name="JPetStore_3UserPaths">
         <duration-policy-entry iterations="1" time="2400" timeUnit="0" type="2"/>

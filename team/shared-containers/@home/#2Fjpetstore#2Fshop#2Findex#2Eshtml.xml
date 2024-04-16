@@ -2,9 +2,9 @@
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/index.shtml" playRequestsSequentially="false"
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
-    thinkTime="5676" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="8aaa7314-84ec-4a64-a12d-058305340aa3">
+    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="5676"
+    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
+    thinkTimeRangeStart="" uid="8aaa7314-84ec-4a64-a12d-058305340aa3">
     <embedded-action>0351b8f3-5c13-4f32-bbf5-8bd8fd06ad03</embedded-action>
     <embedded-action>83060a10-941c-493f-9dd0-fdf1344994f9</embedded-action>
     <embedded-action>83491879-ae2c-4be7-a45d-a311b2aba90a</embedded-action>
@@ -28,7 +28,7 @@
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="23"
     responseSize="7127" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="0351b8f3-5c13-4f32-bbf5-8bd8fd06ad03" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_3d96a6e9-6984-4740-9ee9-b6cd4a424ff6.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_e49d184a-7831-4200-bb22-dae1a41def4b.0.txt</requestContentFileDescription>
@@ -74,7 +74,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="33"
     responseSize="36097" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="83060a10-941c-493f-9dd0-fdf1344994f9" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_7be0cb2b-fc9e-47ff-a96e-d032e48eaf9f.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_4883f74c-ee96-4066-a422-14e070fb6584.txt</requestContentFileDescription>
@@ -112,7 +112,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="20"
     responseSize="471" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="83491879-ae2c-4be7-a45d-a311b2aba90a" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_42edc394-9cc9-4c9c-a5e8-e753f28789c5.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_744c77d8-fcdf-4b55-917e-518480d6360d.txt</requestContentFileDescription>
@@ -150,7 +150,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="271" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="15fcc433-caf1-4312-8dfc-3cb3535cb3b2" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_f35a88fb-ec0d-42d2-9e61-a83b6f6b8cee.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_6b1b1434-c411-4b74-8f36-ea35f1c8e0dd.txt</requestContentFileDescription>
@@ -188,7 +188,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="408" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="160450f9-2f20-440a-bac3-a22146178b7c" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_a38150ac-fb0a-4a1b-8cc9-a55393fe483d.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_d208caeb-51ec-4946-9718-550322f37b05.txt</requestContentFileDescription>
@@ -226,7 +226,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="439" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="6f6a580d-ffdf-470f-9e7a-554da3aa96ba" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_f984a09f-b491-4d6f-a44c-f25bf1646193.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_5fe8dbfc-51f5-4b7c-95fe-4c396801fd9d.txt</requestContentFileDescription>
@@ -264,7 +264,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="18"
     responseSize="289" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="e7014310-c2a5-4d91-864d-e14a89ee5c08" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_935ce1e8-7292-452f-96a4-48acf8b55cd2.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_484ca2f6-37f5-4913-8596-a0e786ecb7c2.txt</requestContentFileDescription>
@@ -302,7 +302,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="36"
     responseSize="251" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="4047935f-0b20-4be5-ae61-c085e618294f" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_b8999a8b-fc91-4a99-a2cc-74f2d57cffe3.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_f9c52bec-43cc-4bc7-99af-d9e2109592c6.txt</requestContentFileDescription>
@@ -340,7 +340,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="34"
     responseSize="306" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="4911f6c3-5f13-41cd-bb17-6c59c16ba82f" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_b8236710-6718-40c6-a94b-c2482dc9c278.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_7692d823-38f0-4e08-8d41-151330df13c3.txt</requestContentFileDescription>
@@ -378,7 +378,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="468" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="7594ba65-5f6a-46a6-bdc0-756423ab0eb2" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_cb4eda03-5a48-40e6-adb9-baeabdceac42.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_b41b5715-5510-4e2e-970e-b1c06b583058.txt</requestContentFileDescription>
@@ -416,7 +416,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="398" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="de36f003-9db0-45a7-a8ef-f150e7eb94a8" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_04e81e63-24bb-4c77-b796-87b0253412c2.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_6e921934-c0a1-41b9-8bb8-810b147ae506.txt</requestContentFileDescription>
@@ -454,7 +454,7 @@ Content-Type: image/gif</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@home/%resources%/recorded-artifacts/8aaa7314-84ec-4a64-a12d-058305340aa3.zip"
     recordedResponseCode="200" recordedResponseTime="37"
     responseSize="669" serverUid="TrainingImage"
-    slaProfileEnabled="false" slaProfileName="JPetStore"
+    slaProfileEnabled="true" slaProfileName="JPetstore"
     uid="eb824e8b-48fd-4947-a7e2-11d6e186a1e7" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_4ca491bc-d80a-40d7-97dd-0042722696b0.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_2ad15fa0-6b95-4177-b05a-529606d23e56.txt</requestContentFileDescription>
