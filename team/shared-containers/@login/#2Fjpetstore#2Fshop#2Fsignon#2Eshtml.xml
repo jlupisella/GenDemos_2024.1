@@ -45,8 +45,7 @@
         setDefaultValue="true" startsWithSimple="" template="$1$"
         templateAdv="$1$" uid="18fb0a6b-b7fd-4106-a125-cdebd6b50e20" xpath=""/>
     <parameter encodeName="false" encodeValue="false" name="username"
-        recordRawValue="j2ee" separator="="
-        value="${JPetUsers.Username}" valueMode="USE_VALUE"/>
+        recordRawValue="j2ee" separator="=" value="j2ee" valueMode="USE_VALUE"/>
     <parameter encodeName="false" encodeValue="false" name="password"
         recordRawValue="${AutoPassword_2}" separator="=" value="j2ee" valueMode="USE_VALUE"/>
     <parameter encodeName="true" encodeValue="true" name="x"

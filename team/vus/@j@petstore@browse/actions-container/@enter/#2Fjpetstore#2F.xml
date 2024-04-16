@@ -17,10 +17,10 @@
     <embedded-action>77b04d6a-072e-49ce-8112-8547cc2c5b5e</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html; charset=UTF-8"
-    eTag="W/&quot;1433-1088130660000&quot;"
+    eTag="W/&quot;1433-1088130660000:dtagent10283240117152214ttF4&quot;"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
     followRedirects="false" generatedByClient="false"
-    lastModified="Fri, 25 Jun 2004 02:31:00 GMT"
+    lastModified="Fri, 25 Jun 2004 02:30:59 GMT"
     linkExtractorSeveralMatchOccurrence="1"
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/" path="/jpetstore/" postType="2"

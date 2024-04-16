@@ -18,12 +18,4 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="resourceType" type="TEXT" value="stylesheet"/>
     <custom-action-parameter name="resourceType" type="TEXT" value="document"/>
     <custom-action-parameter name="resourceType" type="TEXT" value="other"/>
-    <embedded-action>f6d9cf97-5865-412a-9a38-f91d49e5b43c</embedded-action>
-    <embedded-action>cbbfe252-64e7-4b03-8613-924f3b02069f</embedded-action>
-    <embedded-action>a58c8752-38d4-49ec-b902-5f819bcf3948</embedded-action>
-    <embedded-action>434fc36f-67cb-44a6-bb0b-95186e077561</embedded-action>
-    <embedded-action>571a28bb-c90e-46e8-96c9-51ef11a14d20</embedded-action>
-    <embedded-action>07db3db5-36c9-421d-8b9a-f93c56648b85</embedded-action>
-    <embedded-action>1f58620b-42c3-4b15-a9d8-090e336e89f0</embedded-action>
-    <embedded-action>a894301d-eeda-4e54-bfae-e7206ee25dad</embedded-action>
 </browser-action>
