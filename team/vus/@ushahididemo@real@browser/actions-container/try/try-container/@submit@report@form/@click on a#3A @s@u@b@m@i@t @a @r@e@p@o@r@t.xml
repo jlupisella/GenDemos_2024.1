@@ -20,8 +20,7 @@ Possible parameters are:&#xd;
 - waitForDownload (optional): Enable waiting for a download if the parameter is set to true.  Default value is "false".&#xd;
 - waitForDownload.path (optional): The path where to save the the downloaded file. Can include the filename, 
 	i.e : /home/my-downloads/my-downloaded-file.txt &#xd;
-- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
-</description>
+- ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".</description>
     <custom-action-parameter name="selector" type="TEXT" value="#header >> internal:role=link[name=&quot;Submit a Report&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#header > div:nth-child(3) > a:nth-child(1)"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>

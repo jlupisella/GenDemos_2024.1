@@ -3,9 +3,9 @@
     name="/jpetstore/shop/viewProduct.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/4557ea08-ed83-4b12-834f-5d32e905e1a2.zip"
-    slaProfileEnabled="true" slaProfileName="JPetstore" thinkTime="8767"
-    thinkTimeMode="MODE_SIMPLE_THINK_TIME" thinkTimeRangeEnd=""
-    thinkTimeRangeStart="" uid="4557ea08-ed83-4b12-834f-5d32e905e1a2">
+    slaProfileEnabled="false" slaProfileName="JPetstore"
+    thinkTime="8767" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
+    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="4557ea08-ed83-4b12-834f-5d32e905e1a2">
     <embedded-action>ff0fee64-8ace-4491-bbfe-6df10030a45a</embedded-action>
     <embedded-action>fbeb6257-27ea-4403-8804-08639a54e19b</embedded-action>
 </http-page>
@@ -18,9 +18,9 @@
     path="/jpetstore/shop/viewProduct.shtml" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/4557ea08-ed83-4b12-834f-5d32e905e1a2.zip"
     recordedResponseCode="200"
-    refererUid="008e168c-8669-4977-a7c8-cf8b9165b261"
+    refererUid="a8a2e404-1531-4e89-b19c-46d9e77e91dc"
     responseSize="3776" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     uid="ff0fee64-8ace-4491-bbfe-6df10030a45a" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_16471d89-503c-4bf2-ae71-f3b3b4d8c1b8.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_16471d89-503c-4bf2-ae71-f3b3b4d8c1b8.txt</requestContentFileDescription>
@@ -76,7 +76,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     path="/jpetstore/images/button_add_to_cart.gif" postType="2"
     recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/4557ea08-ed83-4b12-834f-5d32e905e1a2.zip"
     recordedResponseCode="200" responseSize="0"
-    serverUid="TrainingImage" slaProfileEnabled="true"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     slaProfileName="JPetstore"
     uid="fbeb6257-27ea-4403-8804-08639a54e19b" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_9a516453-9dec-4040-afd1-08f48a3dddd7.gif</responsePageFileDescription>

@@ -3,7 +3,7 @@
     name="/jpetstore/shop/viewCategory.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/shared-containers/@category/%resources%/recorded-artifacts/fa520af9-5c57-463e-a953-adaafa447b8c.zip"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     thinkTime="14018" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
     thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="fa520af9-5c57-463e-a953-adaafa447b8c">
     <embedded-action>76ec4f96-0845-47c2-b47a-4e971dcdc245</embedded-action>
@@ -19,7 +19,7 @@
     recordedArtifactZipFileName="team/shared-containers/@category/%resources%/recorded-artifacts/fa520af9-5c57-463e-a953-adaafa447b8c.zip"
     recordedResponseCode="200" recordedResponseTime="47"
     responseSize="4751" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     uid="76ec4f96-0845-47c2-b47a-4e971dcdc245" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_ab1dd3ab-f531-4503-8d9b-c1a93a5a14da.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_3ff1511e-6703-4426-9050-0ccdccb6e3a9.0.txt</requestContentFileDescription>
@@ -81,7 +81,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/shared-containers/@category/%resources%/recorded-artifacts/fa520af9-5c57-463e-a953-adaafa447b8c.zip"
     recordedResponseCode="200" recordedResponseTime="36"
     responseSize="1247" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     uid="89c7edc3-fcda-49fe-b298-e5cdcbb4e537" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_b062ea12-07f3-45f4-9a75-e839c8339b29.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_6e6611b0-571e-47ce-9b76-86b8c8fa49f0.txt</requestContentFileDescription>

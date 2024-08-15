@@ -3,7 +3,7 @@
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/2a17ac70-a713-409c-b926-8e78ef21dfa6.zip"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     thinkTime="10675" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
     thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="2a17ac70-a713-409c-b926-8e78ef21dfa6">
     <embedded-action>9ff05271-8568-477f-ad47-c419d47cf24f</embedded-action>
@@ -19,7 +19,7 @@
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/2a17ac70-a713-409c-b926-8e78ef21dfa6.zip"
     recordedResponseCode="200" recordedResponseTime="21"
     responseSize="4965" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     uid="9ff05271-8568-477f-ad47-c419d47cf24f" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_55a2303c-17c4-4d5a-a2bb-fa6ad064ef79.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_75f7b2b4-ebe9-46b7-91b7-1150e93f22be.0.txt</requestContentFileDescription>
@@ -55,7 +55,7 @@ Content-Type: text/html;charset=ISO-8859-1</responseHeaders>
     recordedArtifactZipFileName="team/vus/@j@petstore/%resources%/recorded-artifacts/2a17ac70-a713-409c-b926-8e78ef21dfa6.zip"
     recordedResponseCode="200" recordedResponseTime="17"
     responseSize="1275" serverUid="TrainingImage"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     uid="5a091d80-1e12-4ab6-bc37-325484284884" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_cust_4f0665b1-4ccb-4ae1-8ff9-fec0b3ca23fc.gif</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_cust_ca7ec328-d189-4962-b995-4e6cbbd02d7e.txt</requestContentFileDescription>

@@ -2,11 +2,11 @@
     forceEncodingForDynamicResources="false"
     name="/jpetstore/shop/checkout.shtml"
     playRequestsSequentially="false"
-    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/c9b0aa15-c357-4408-a8c7-608e0cb39890.zip"
-    slaProfileEnabled="true" slaProfileName="JPetstore"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/17fdd25c-6446-4e19-b26e-fa4f24056b93.zip"
+    slaProfileEnabled="false" slaProfileName="JPetstore"
     thinkTime="14473" thinkTimeMode="MODE_SIMPLE_THINK_TIME"
-    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="c9b0aa15-c357-4408-a8c7-608e0cb39890">
-    <embedded-action>b6743c54-b68e-4a99-906a-fa968d65af74</embedded-action>
+    thinkTimeRangeEnd="" thinkTimeRangeStart="" uid="17fdd25c-6446-4e19-b26e-fa4f24056b93">
+    <embedded-action>b456cf10-3eea-40e0-8563-c32fd824a90e</embedded-action>
 </http-page>
 <http-action actionType="1" contentType="text/html;charset=ISO-8859-1"
     extractorInjectPathPolicy="2" extractorPathPolicy="1"
@@ -15,11 +15,11 @@
     linkExtractorSeveralMatchPolicy="1" linkExtractorType="6"
     method="GET" name="/jpetstore/shop/checkout.shtml"
     path="/jpetstore/shop/checkout.shtml" postType="2"
-    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/c9b0aa15-c357-4408-a8c7-608e0cb39890.zip"
+    recordedArtifactZipFileName="team/vus/@j@petstore_multi_items/%resources%/recorded-artifacts/17fdd25c-6446-4e19-b26e-fa4f24056b93.zip"
     recordedResponseCode="200" responseSize="4942"
-    serverUid="TrainingImage" slaProfileEnabled="true"
+    serverUid="TrainingImage" slaProfileEnabled="false"
     slaProfileName="JPetstore"
-    uid="b6743c54-b68e-4a99-906a-fa968d65af74" useKeepAlive="false">
+    uid="b456cf10-3eea-40e0-8563-c32fd824a90e" useKeepAlive="false">
     <responsePageFileDescription>recorded-responses/res_4869eb65-15cf-46dc-a01e-10b4021e5a80.html</responsePageFileDescription>
     <requestContentFileDescription>recorded-requests/req_4869eb65-15cf-46dc-a01e-10b4021e5a80.txt</requestContentFileDescription>
     <header name="Accept" value="text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,*/*;q=0.8"/>

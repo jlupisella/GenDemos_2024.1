@@ -8,8 +8,7 @@ This action is useful for avoiding stacking browser instances on a single VU. Th
 
 Possible parameters are:&#xd;
 - ignoreErrors (optional): Set this option to true to ignore errors for this action. This is useful for handling conditional actions without having to resort to a "If...Then...Else" or a "Try...Catch" block. Default value is "false".&#xd;
-- shouldCloseOnlyContext (optional): true or false to close only RealBrowser context and reuse previous browser for current VU. RealBrowser context is cheap to create/destroy. Default value is "false".&#xd;
-</description>
+- shouldCloseOnlyContext (optional): true or false to close only RealBrowser context and reuse previous browser for current VU. RealBrowser context is cheap to create/destroy. Default value is "false".</description>
     <custom-action-parameter name="shouldCloseOnlyContext" type="TEXT" value="false"/>
     <custom-action-parameter name="ignoreErrors" type="TEXT" value="true"/>
     <responsePageFileDescription>recorded-responses/res_adde837a-62fd-4fad-a392-a54e7e4e95b4</responsePageFileDescription>

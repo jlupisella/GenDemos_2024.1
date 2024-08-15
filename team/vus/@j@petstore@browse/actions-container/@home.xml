@@ -1,6 +1,6 @@
 <basic-logical-action-container element-number="1" execution-type="0"
     name="Home" pacingEnd="0" pacingMode="MODE_NO_PACING"
-    pacingStart="0" pacingValue="0" slaProfileEnabled="true"
+    pacingStart="0" pacingValue="0" slaProfileEnabled="false"
     slaProfileName="JPetstore"
     uid="b7c28cd1-c73f-4a90-b19d-aa49d21ddb6c" weightsEnabled="false">
     <weighted-embedded-action uid="3a789d9a-7cd3-475f-91b8-ee299c5d7721"/>

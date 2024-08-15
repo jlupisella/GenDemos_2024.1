@@ -8,7 +8,7 @@
             counterID="0" format="NUMBER"
             name="Connections/ threads connected" sampling="0"
             short-display-name="threads connected"
-            threshold="411c57c5-21df-4922-aa04-00a8887655b8" unit="">
+            threshold="ee957115-7edc-4835-830f-9024f4b4b44d" unit="">
             <description>Number of currently open connections</description>
         </monitor-mysql>
         <monitor-mysql callTime="ON_BENCH" categoryID="0" computing="0"
@@ -395,8 +395,8 @@
         <threshold-condition durationKind="SECONDS" durationNumber="15"
             operator="LESS_THAN" severity="HIGH" valueMax="Infinity" valueMin="50000.0"/>
     </threshold>
-    <threshold enabled="true" uid="411c57c5-21df-4922-aa04-00a8887655b8">
+    <threshold enabled="true" uid="ee957115-7edc-4835-830f-9024f4b4b44d">
         <threshold-condition durationKind="SECONDS" durationNumber="15"
-            operator="GREATER_THAN" severity="LOW" valueMax="Infinity" valueMin="7.0"/>
+            operator="GREATER_THAN" severity="HIGH" valueMax="Infinity" valueMin="8.0"/>
     </threshold>
 </connection-mysql>
