@@ -25,5 +25,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;incident_description&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_description"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > textarea:nth-child(3)"/>
-    <screenshotFileDescription>recorded-screenshots/sc_71dcbcaa-dc2d-44b8-81e9-ebfaadf96fba.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_71dcbcaa-dc2d-44b8-81e9-ebfaadf96fba.jpg</screenshotFileDescription>
 </browser-action>

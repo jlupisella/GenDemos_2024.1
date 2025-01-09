@@ -24,5 +24,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="internal:text=&quot;Wind&quot;i"/>
     <custom-action-parameter name="selector" type="TEXT" value="label:text-is(&quot;Wind&quot;)"/>
     <custom-action-parameter name="selector" type="TEXT" value="#category-column-1 > li:nth-child(2) > label:nth-child(1)"/>
-    <screenshotFileDescription>recorded-screenshots/sc_d64ceb3b-6ccd-426f-9c7f-1f8027bd24dc.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_d64ceb3b-6ccd-426f-9c7f-1f8027bd24dc.jpg</screenshotFileDescription>
 </browser-action>

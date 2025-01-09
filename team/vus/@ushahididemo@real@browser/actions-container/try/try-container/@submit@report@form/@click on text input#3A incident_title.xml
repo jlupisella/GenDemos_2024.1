@@ -25,5 +25,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;incident_title&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#incident_title"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(3) > div:nth-child(1) > input:nth-child(2)"/>
-    <screenshotFileDescription>recorded-screenshots/sc_6aa36498-c890-40b7-bec6-262f0d178a14.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_6aa36498-c890-40b7-bec6-262f0d178a14.jpg</screenshotFileDescription>
 </browser-action>

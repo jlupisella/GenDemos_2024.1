@@ -11,3 +11,4 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="url" type="TEXT" value="https://ushahidi.apps.neotys.com/"/>
     <embedded-action>f56eddef-ae7c-417b-a2bd-359edc60df6b</embedded-action>
 </browser-action>
+<browser-page-action name="" slaProfileEnabled="false" uid="f56eddef-ae7c-417b-a2bd-359edc60df6b"/>

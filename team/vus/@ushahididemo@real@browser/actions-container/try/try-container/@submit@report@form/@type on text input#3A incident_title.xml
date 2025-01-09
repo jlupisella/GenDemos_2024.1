@@ -25,5 +25,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(3) > div:nth-child(1) > input:nth-child(2)"/>
     <custom-action-parameter name="text" type="TEXT" value="my report"/>
     <custom-action-parameter name="delay" type="TEXT" value="300"/>
-    <screenshotFileDescription>recorded-screenshots/sc_3539b886-44d5-4b86-8125-c60653fa06ae.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_3539b886-44d5-4b86-8125-c60653fa06ae.jpg</screenshotFileDescription>
 </browser-action>

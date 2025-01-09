@@ -24,6 +24,7 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="internal:role=button[name=&quot;Submit&quot;i]"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(4) > div:nth-child(6) > input:nth-child(1)"/>
     <custom-action-parameter name="waitForNavigation.url" type="TEXT" value=".*"/>
-    <screenshotFileDescription>recorded-screenshots/sc_aa3ecb59-857d-4945-bbd3-f8872df6359f.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_aa3ecb59-857d-4945-bbd3-f8872df6359f.jpg</screenshotFileDescription>
     <embedded-action>37bc84f5-3715-4710-8ab8-8e8ad69b2c0f</embedded-action>
 </browser-action>
+<browser-page-action name="" slaProfileEnabled="false" uid="37bc84f5-3715-4710-8ab8-8e8ad69b2c0f"/>

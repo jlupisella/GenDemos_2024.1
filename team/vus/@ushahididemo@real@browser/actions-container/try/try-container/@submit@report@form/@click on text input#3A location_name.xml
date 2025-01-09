@@ -25,5 +25,5 @@ Possible parameters are:&#xd;
     <custom-action-parameter name="selector" type="TEXT" value="[name=&quot;location_name&quot;]"/>
     <custom-action-parameter name="selector" type="TEXT" value="#location_name"/>
     <custom-action-parameter name="selector" type="TEXT" value="div > div:nth-child(4) > div:nth-child(2) > input:nth-child(2)"/>
-    <screenshotFileDescription>recorded-screenshots/sc_d670d889-980d-4400-82d3-9dc999622089.jpg</screenshotFileDescription>
+    <screenshotFileDescription>team/vus/@ushahididemo@real@browser/%resources%/recorded-screenshots/sc_d670d889-980d-4400-82d3-9dc999622089.jpg</screenshotFileDescription>
 </browser-action>
